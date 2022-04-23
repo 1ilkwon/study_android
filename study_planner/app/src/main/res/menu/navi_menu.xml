@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home" app:showAsAction="ifRoom" android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground" android:title="Home" />
+    <item android:id="@+id/todo" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_foreground" android:title="Todo" />
+    <item android:id="@+id/timer" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_foreground" android:title="Timer" />
+    <item android:id="@+id/credit" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_launcher_foreground" android:title="Credit" />
+    <item android:id="@+id/calender" app:showAsAction="ifRoom"
+        android:enabled="true" android:icon="@drawable/ic_launcher_foreground" android:title="Calender" />
+</menu>
