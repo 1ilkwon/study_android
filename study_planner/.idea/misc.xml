@@ -3,8 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/drawable/ic_calendar.xml" value="0.29375" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/drawable/menu_selector_color.xml" value="0.29375" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/activity_edit_todo.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/activity_navi.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/content_edit_todo.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/fragment_calendar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/fragment_first.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/fragment_home.xml" value="0.2046875" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/fragment_second.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/fragment_todo.xml" value="0.27760416666666665" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/navigation.xml" value="0.2046875" />
+        <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/layout/todo_list_item.xml" value="0.27760416666666665" />
         <entry key="..\:/Users/Yoon/Documents/GitHub/study_kotlin/study_planner/app/src/main/res/menu/navi_menu.xml" value="0.36614583333333334" />
       </map>
     </option>
